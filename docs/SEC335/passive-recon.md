@@ -1,2 +1,5 @@
-[Activity 1.2 Passive Recon .pdf](https://github.com/zachary-moote-champlain/tech-journal/files/7140813/Activity.1.2.Passive.Recon.pdf)
-
+![0001](https://user-images.githubusercontent.com/55714414/132789031-8c087909-e02d-40ef-aafa-987728164931.jpg)
+![0002](https://user-images.githubusercontent.com/55714414/132789036-116d7a19-53f7-4c67-9fbf-2574b61a2dd4.jpg)
+![0003](https://user-images.githubusercontent.com/55714414/132789037-3be0a9c6-76f9-462a-8635-caca4a4fd9c5.jpg)
+![0004](https://user-images.githubusercontent.com/55714414/132789038-123e5717-2a62-480a-9f7d-cf7fe3e3d380.jpg)
+![0005](https://user-images.githubusercontent.com/55714414/132789039-252353c5-c498-4699-9f70-868cfb97f481.jpg)
