@@ -7,5 +7,6 @@
 - reviewed knowledge on [ip addressing](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/NET330/assignment1-1.md)
 
 ## 9/6/21 - Week 2
+- completed a [design for different subnets](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/NET330/lab2-1.md)
 
 ## 9/13/21 - Week 3
