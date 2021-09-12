@@ -5,3 +5,7 @@
 - worked through [packet tracer review](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/NET330/lab1-2.md)
 - captured [ip headers](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/NET330/lab1-3.md) in wireshark
 - reviewed knowledge on [ip addressing](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/NET330/assignment1-1.md)
+
+## 9/6/21 - Week 2
+
+## 9/13/21 - Week 3
