@@ -1,3 +1,14 @@
+## NMAP Syntax
+`nmap <target>`
+
+## NMAP Flags
+`-p` defines the ports. Can be singular, ranged, and listed 
+(ie: -p 443 or -p 80,443,3389 or -p 1-10000 or any combination thereof)
+
+`-sV` enables service detection
+
+`-A` enables all. Service dection, traceroute, OS Detection, etc.
+
 ## Useful Commands
 `Set-ItemProperty -Path 'HKLM:\System\CurrentControlSet\Control\Terminal Server' -name "fDenyTSConnections" -value 0`
 ---
