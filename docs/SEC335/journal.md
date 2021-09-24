@@ -8,3 +8,6 @@
 - reviewed bash commands for [host discovery](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/SEC335/host-discovery.md)
 - reviewed nmap commands for [port scanning](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/SEC335/nmap.md) techniques
 - worked through [lab 2.1](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/SEC335/portscanning2-1.md)
+  - [portscanner.sh](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/SEC335/portscanner.sh)
+  - [mytargets.txt](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/SEC335/mytargets.txt)
+  - [mytcpports.txt](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/SEC335/mytcpports.txt)
