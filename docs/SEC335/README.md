@@ -8,6 +8,9 @@
 - [host-discovery.md](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/SEC335/host-discovery.md)
 - [nmap.md](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/SEC335/nmap.md)
 - [portscanning2-1.md](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/SEC335/portscanning2-1.md)
+- [portscanner.sh](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/SEC335/portscanner.sh)
+- [mytargets.txt](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/SEC335/mytargets.txt)
+- [mytcpports.txt](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/SEC335/mytcpports.txt)
 
 ## Chronological Journal
 - [journal](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/SEC335/journal.md)
