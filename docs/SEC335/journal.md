@@ -7,3 +7,4 @@
 ## 9/10/2021 - Week 2
 - reviewed bash commands for [host discovery](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/SEC335/host-discovery.md)
 - reviewed nmap commands for [port scanning](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/SEC335/nmap.md) techniques
+- worked through [lab 2.1](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/SEC335/portscanning-1.md)
