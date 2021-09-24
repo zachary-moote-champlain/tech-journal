@@ -7,6 +7,7 @@
 ## Week 2
 - [host-discovery.md](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/SEC335/host-discovery.md)
 - [nmap.md](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/SEC335/nmap.md)
+- [portscanning-1.md](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/SEC335/portscanning-1.md)
 
 ## Chronological Journal
 - [journal](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/SEC335/journal.md)
