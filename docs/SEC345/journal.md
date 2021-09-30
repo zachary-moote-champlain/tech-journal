@@ -14,7 +14,7 @@
   - Ignoring information
   - Overconfidence
 
-  # The above ideas come from the Module 3 presentation titled *Bias in Information* by Professor Adam Goldstein, and have been rewritten in my own words.
+  ### The above ideas come from the Module 3 presentation titled *Bias in Information* by Professor Adam Goldstein, and have been rewritten in my own words.
 
 # 2. Risk Management Framework
   - What is a RMF?
@@ -35,7 +35,7 @@
     - Document *everything* and keep backups. Do not let anything go untouched. Be able to refer back to the information recorded. (Pg 126-127)
     - It is better to have it, and not need it, than it is to not have it, and need it.  
   
-  # The above ideas come from page 126-127, and have been rewritten in my own words.
+  ### The above ideas come from page 126-127, and have been rewritten in my own words.
 
 
 
