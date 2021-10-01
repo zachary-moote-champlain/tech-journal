@@ -15,7 +15,8 @@
 ## Week 3 (Work in Progress)
 
 ## Week 4
-- [cupcake.md](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/SEC335/cupcake.md)
+- [cupcake-technical.md](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/SEC335/cupcake-technical.md)
+- [cupcake-reflection.md](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/SEC335/cupcake-reflection.md)
 
 ## Week 5 (Work in Progress)
 
