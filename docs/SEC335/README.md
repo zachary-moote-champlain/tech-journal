@@ -12,5 +12,10 @@
 - [mytargets.txt](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/SEC335/mytargets.txt)
 - [mytcpports.txt](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/SEC335/mytcpports.txt)
 
+## Week 3 (Work in Progress)
+
+## Week 4
+- [cupcake.md](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/SEC335/cupcake.md)
+
 ## Chronological Journal
 - [journal](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/SEC335/journal.md)
