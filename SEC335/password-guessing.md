@@ -25,3 +25,6 @@ The use of -c -u -l -s here is to disable capitalization, uppercasing, lowercasi
 Judging by the champlain email format, I am making the presumption that the format for faculty when logging in is first initial and last name (ie: agoldstein or jeastman etc) since as students it is firstname.lastname.
 
 When reading the man pages of the available password guessing tools, I found hydra to be the most user-friendly.
+
+# Linux Account Struggles
+Unfortunately, I was unable to “guess” three of the linux accounts. I did successfully “guess” two, however! Those being Joe's and Duane’s. Devin’s and Adam’s proved difficult, despite the hint for previous residental locations via White Pages (although, there is a paywall for all the information, so the info gathered was limited). Another obstacle with Adam’s was rsmangler not wanting to create mangled versions of Adam’s WP password guesses.
