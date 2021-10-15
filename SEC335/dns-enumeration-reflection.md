@@ -1,4 +1,5 @@
 # Reflection
+---
 I had some difficulties with resulting outputs of certain deliverables.
 Unfortunetly, bash and RegEx are not my strongest suits.
 The main challenges were cutting out certain lines and especially the formatting for the zt.txt file.
