@@ -1,6 +1,6 @@
 # DNS Enumeration Bash Scripts
-[]()
-[]()
+[portscanner2.sh](https://github.com/zachary-moote-champlain/tech-journal/blob/main/SEC335/week3/portscanner2.sh)
+[dns-resolver.sh](https://github.com/zachary-moote-champlain/tech-journal/blob/main/SEC335/week3/dns-resolver.sh)
 
 ---
 # DNS Enumeration Shell One-Liners
