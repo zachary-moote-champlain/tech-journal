@@ -13,6 +13,8 @@
 - [mytcpports.txt](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/SEC335/mytcpports.txt)
 
 ## Week 3 (Work in Progress)
+- [dns-enumeration.md](https://github.com/zachary-moote-champlain/tech-journal/blob/main/SEC335/dns-enumeration.md)
+- [dns-enumeration-reflection.md](https://github.com/zachary-moote-champlain/tech-journal/blob/main/SEC335/dns-enumeration-reflection.md)
 
 ## Week 4
 - [cupcake-technical.md](https://github.com/zachary-moote-champlain/tech-journal/blob/main/docs/SEC335/cupcake-technical.md)
