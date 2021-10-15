@@ -52,9 +52,9 @@ vpn.zonetransfer.me.	4000	IN	A	174.36.59.154
 www.zonetransfer.me.	7200	IN	A	5.196.105.14
 xss.zonetransfer.me.	300	IN	TXT	"'><script>alert('Boo')</script>"
 zonetransfer.me.	7200	IN	SOA	nsztm1.digi.ninja. robin.digi.ninja. 2019100801 172800 900 1209600 3600
-;; Query time: 107 msec
+;; Query time: 91 msec
 ;; SERVER: 81.4.108.41#53(81.4.108.41)
-;; WHEN: Thu Oct 14 20:01:05 EDT 2021
+;; WHEN: Thu Oct 14 22:07:05 EDT 2021
 ;; XFR size: 50 records (messages 1, bytes 1994)
 
 
@@ -112,8 +112,8 @@ vpn.zonetransfer.me.	4000	IN	A	174.36.59.154
 www.zonetransfer.me.	7200	IN	A	5.196.105.14
 xss.zonetransfer.me.	300	IN	TXT	"'><script>alert('Boo')</script>"
 zonetransfer.me.	7200	IN	SOA	nsztm1.digi.ninja. robin.digi.ninja. 2019100801 172800 900 1209600 3600
-;; Query time: 27 msec
+;; Query time: 23 msec
 ;; SERVER: 34.225.33.2#53(34.225.33.2)
-;; WHEN: Thu Oct 14 20:01:23 EDT 2021
+;; WHEN: Thu Oct 14 22:07:15 EDT 2021
 ;; XFR size: 51 records (messages 1, bytes 2141)
 
