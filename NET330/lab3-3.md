@@ -1,4 +1,4 @@
-# Lab 3-3 DHCP Server in PT
+# Lab 3-3 DHCP Server in PT (Will be updated ASAP)
 
 - How to create pools
 - Working with serverPool
