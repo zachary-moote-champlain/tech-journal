@@ -9,5 +9,9 @@
 ## Week 2 
 - [lab2-1](https://github.com/zachary-moote-champlain/tech-journal/blob/main/NET330/lab2-1.md)
 
+## Week 5
+- [lab3-3](https://github.com/zachary-moote-champlain/tech-journal/blob/main/NET330/lab3-3.md)
+- [lab4-1](https://github.com/zachary-moote-champlain/tech-journal/blob/main/NET330/lab4-1.md)
+
 ## Chronological Journal
 - [journal](https://github.com/zachary-moote-champlain/tech-journal/blob/main/NET330/journal.md)
