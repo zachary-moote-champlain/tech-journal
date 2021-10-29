@@ -1,5 +1,8 @@
 # SEC335
 
+## Chronological Journal
+- [journal](https://github.com/zachary-moote-champlain/tech-journal/blob/main/SEC335/journal.md)
+
 ## Module 1 - Passive Recon
 - [passive-recon.md](https://github.com/zachary-moote-champlain/tech-journal/blob/main/SEC335/passive-recon.md)
 - [kali crd](https://github.com/zachary-moote-champlain/tech-journal/blob/main/SEC335/kali.md)
@@ -29,6 +32,3 @@
 ## Module 7 - Exploiting Pippin - File Upload Vulnerabilities, WebShells, and Database
 
 ## Module 8 - Reverse Shells
-
-## Chronological Journal
-- [journal](https://github.com/zachary-moote-champlain/tech-journal/blob/main/SEC335/journal.md)
