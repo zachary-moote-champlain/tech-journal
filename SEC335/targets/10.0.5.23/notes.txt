@@ -1,2 +1,0 @@
-sudo nmap -Pn -sV --top-ports=50 -oG 10.0.5.23.txt 10.0.5.23
-nmaptocsv -i 10.0.5.23.txt -d ","
