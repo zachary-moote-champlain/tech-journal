@@ -11,6 +11,7 @@
 --- 
 ### Week 5
 ---
+- [password-guessing.md](https://github.com/zachary-moote-champlain/tech-journal/blob/main/SEC-335/password-guessing.md)
 ### Chronological Journal
 ---
 - [journal](https://github.com/zachary-moote-champlain/tech-journal/blob/main/SEC-335/journal.md)
